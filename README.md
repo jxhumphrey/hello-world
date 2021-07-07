@@ -1,2 +1,4 @@
 # hello-world
-test repository to test my repository skillzz
+test repository for trying out git hub
+stuff about stuff
+coommmpuuteerrr hackkinnggggg
